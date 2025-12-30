@@ -1,8 +1,10 @@
 # Undergraduate-thesis-radio-analysis
 
 ## Project Overview
--What data (JUNO spacecraft radio data)
--What you analyzed (time-frequency spectrograms, emission patterns)
+This project analyzes radio emission data from the JUNO spacecraft,
+focusing on time-frequency spectrograms and characteristic emission
+patterns.
+
 
 ## My Role
 - Processed raw radio data from the JUNO spacecraft
@@ -10,11 +12,11 @@
 - Analyzed emission patterns and identified characteristic structures
 
 ## Tools
--IDL
--Excel
+- IDL
+- Excel
 
 ## Results
--Example outputs
+- Example outputs
 
 ![WAV_2017297T000000_E_V02](https://github.com/user-attachments/assets/bab8fd4c-698d-4d36-aae4-f8c228a6d49d)
 
