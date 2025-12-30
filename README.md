@@ -1,6 +1,6 @@
 # Undergraduate-thesis-radio-analysis
 
-##Project Overview
+## Project Overview
 -What data (JUNO spacecraft radio data)
 -What you analyzed (time-frequency spectrograms, emission patterns)
 
@@ -9,11 +9,11 @@
 - Generated time-frequency spectrograms using IDL
 - Analyzed emission patterns and identified characteristic structures
 
-##Tools
+## Tools
 -IDL
 -Excel
 
-##Results
+## Results
 -Example outputs
 
 ![WAV_2017297T000000_E_V02](https://github.com/user-attachments/assets/bab8fd4c-698d-4d36-aae4-f8c228a6d49d)
