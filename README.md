@@ -31,7 +31,8 @@ The specific dataset used in this analysis was provided by my
 undergraduate thesis supervisor, who had previously collected and
 archived the data locally for research purposes.
 
-## Note: The original dataset is very large and requires a significant
+## Note: 
+The original dataset is very large and requires a significant
 amount of time and storage to download. Therefore, the raw data is
 not included in this repository.
 
