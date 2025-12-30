@@ -1,4 +1,4 @@
-# Undergraduate-thesis-radio-analysis
+# undergraduate-thesis-radio-analysis
 
 ## Project Overview
 This project analyzes radio emission data from the JUNO spacecraft,
@@ -16,7 +16,7 @@ patterns.
 - Excel
 
 ## Results
-- Example outputs
+- Below are example spectrogram outputs generated for selected observation periods.
 
 ![WAV_2017297T000000_E_V02](https://github.com/user-attachments/assets/bab8fd4c-698d-4d36-aae4-f8c228a6d49d)
 
@@ -35,6 +35,6 @@ archived the data locally for research purposes.
 amount of time and storage to download. Therefore, the raw data is
 not included in this repository.
 
-## Acknowledgement
+## Acknowledgements
 This project was developed as part of my coursework / undergraduate research.
-I would like to thank Prof. Riabov for helpful guidance and feedback.
+I would like to thank my undergraduate thesis supervisor, Prof. Riabov, for helpful guidance and feedback.
